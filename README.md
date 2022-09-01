@@ -40,7 +40,6 @@ https://mylittletrip-4416.web.app
 ### 2. Front-end
 
 > React.js  
-> Node.js
 
 <br />
 
